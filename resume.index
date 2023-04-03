@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pooja Resume</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS04cRL_YMBn4iNY3KY7As_-M07qCxoerPAnw&usqp=CAU" alt="Pooja image">
+    </td>
+    <td>
+    <h1>POOJA GOYAL</h1>Software Engineer
+    <hr>
+    Contact info :<br>
+    <a href="98989898" >mob no</a>
+    Mob no. : 98989898<br>
+    <a target= _blank href="https://www.linkedin.com/in/pooja-goyal-b3b043224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bcgr7UJejQgWzGKoxS5ovpQ%3D%3D">Linkdln : https://www.linkedin.com/in/pooja-goyal-b3b043224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bcgr7UJejQgWzGKoxS5ovpQ%3D%3D</a>
+</td>
+</tr>
+</table>
+<hr>
+<h2>Education:</h2>
+<table border=" ">
+    <th>Course</th>
+    <th>Institution</th>
+    <th>Year</th>
+    <th>Result</th>
+    <tr>
+        <td>Btech</td>
+        <td>SVVV</td>
+        <td>2025</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>12<sup>th</sup></td>
+        <td>PCHSS</td>
+        <td>2021</td>
+        <td>91%</td>
+    </tr>
+    <tr>
+        <td>10<sup>th</sup></td>
+        <td>PCHSS</td>
+        <td>2019</td>
+        <td>89%</td>
+    </tr>
+
+</table>
+<h3>Skills</h3>
+<ul>
+    <li>HTML</li>
+    <li>C language</li>
+    <li>MS Excel</li>
+</ul>
+
+</body>
+</html>
